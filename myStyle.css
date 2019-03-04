@@ -1,0 +1,19 @@
+
+body {}
+h2   {color: blue;}
+p    {color: red;}
+
+#bt1, #bt2 {
+  background-color: #4CAF50;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
